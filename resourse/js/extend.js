@@ -1,0 +1,5 @@
+$.fn.extend({
+	floor:function(){
+		
+	}
+});
